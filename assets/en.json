@@ -1,0 +1,46 @@
+{
+  "title": "Shop",
+  "1": "Price",
+  "2": "Charges",
+  "3": "Requirements",
+  "settings": "Settings",
+  "logout": "Log out",
+  "snackBar1": "Adding  ◌◌",
+  "snackBar2": "Updating  ◌◌",
+  "snackBar3": "Deleting  ◌◌",
+  "noItems": "No Items",
+  "Add": "Add",
+  "Cancel": "Cancel",
+  "addProduct": "Add New Product",
+  "addCharge": "Add New Charge",
+  "Product": "Product",
+  "date": "Date",
+  "addImage": "Add Image",
+  "edit": "Edit",
+  "delete": "Delete",
+  "update": "Update",
+  "search": "Search",
+  "editProduct": "Edit Product",
+  "pound" : "L.E",
+  "name" : "name",
+  "description" : "Description,",
+  "req" : "Requirements",
+  "eldawlia" : "perfume",
+  "hamada" : "grocery",
+  "3del" : "feed",
+  "elqady" : "Detergent",
+  "sawah" : "dairy",
+  "reqProduct" : "Add new Required product",
+  "Q" : "Quantity",
+  "Q is" : "Quantity is",
+  "dark" : "Dark theme",
+  "Lang" : "Language",
+  "DeleteCharge" : "Delete person by name"
+
+
+
+
+
+
+
+}
